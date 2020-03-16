@@ -1,3 +1,3 @@
 **Mapping to leave insert mode with jj**
 
-inoremap jj <ESC>
+inoremap jj \<ESC>
