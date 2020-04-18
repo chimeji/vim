@@ -1,3 +1,2 @@
-**Leave insert mode with jj**
-
-inoremap jj \<ESC>
+**Create .vimrc file**
+touch ~/.vimrc or touch $HOME/.vimrc
